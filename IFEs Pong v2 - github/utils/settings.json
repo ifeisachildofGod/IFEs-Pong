@@ -1,0 +1,11 @@
+{
+  "bg_color": "black",
+  "fg_color": "white",
+  "link_color": "grey",
+  "skin": "none",
+  "ad_index": 4,
+  "key1_up": "w",
+  "key1_down": "s",
+  "key2_up": "UP",
+  "key2_down": "DOWN"
+}
