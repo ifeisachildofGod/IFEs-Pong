@@ -1,0 +1,14 @@
+{
+  "player 1 score": 0,
+  "player 2 score": 0,
+  "player 1 y position": 301,
+  "player 2 y position": 301,
+  "ball pos": [
+    600,
+    301
+  ],
+  "ball dir": [
+    1,
+    -1
+  ]
+}
