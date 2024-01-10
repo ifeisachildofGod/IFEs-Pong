@@ -1311,8 +1311,8 @@ class GameApp:
         player2_rect_info = self.player2.get_rect_info()
         self.player1_score, self.player2_score = self.ball.get_score()
         
-        mods.draw_nums(self.screen, self.player1_score, 0, FONT_CELL_SIZE, True, self.FG_COLOR, self.ui_surf)
-        mods.draw_nums(self.screen, self.player2_score, 0, FONT_CELL_SIZE, False, self.FG_COLOR, self.ui_surf)
+        mods.draw_nums(self.screen, self.player1_score, 0, FONT_CELL_SIZE, False, self.FG_COLOR, self.ui_surf)
+        mods.draw_nums(self.screen, self.player2_score, 0, FONT_CELL_SIZE, True, self.FG_COLOR, self.ui_surf)
         
         self.ball.update(BALL_SPEED * self.delta_time, (player1_rect_info, player2_rect_info), self.FG_COLOR, self.ball_skin_surf)
         
