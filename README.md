@@ -1,16 +1,15 @@
 # IFEs Pong
-This is pong but a little better, this is basically an archive of all my previous iterations of this project. Any errors, mistakes
-or just a pure face-palm moment in the code or the functioning of the program is entirely the fault of my younger self as the code that you are about to see is purely unedited (apart from the pyuac part, which was added recently)
+This is pong but a little better, this is an archive of all my previous iterations of this project. Any errors, mistakes or just a pure face-palm moment in the code or the program's functioning is entirely my younger self's fault as the code you are about to see is purely unedited (apart from the pyuac part, which was added recently). Also, the description of each version comes from the description I gave at the time I created it, so don't mind my use of tenses.
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [IFEs-Pong-v1](#ifes-pong-v1)
-- [IFEs-Pong-v2](#ifes-pong-v2)
-- [IFEs-Pong-v3](#ifes-pong-v3)
-- [IFEs-Pong-v4](#ifes-pong-v4)
-- [IFEs-Pong-v5](#ifes-pong-v5)
+- [Version-1](#ifes-pong-v1)
+- [Version-2](#ifes-pong-v2)
+- [Version-3](#ifes-pong-v3)
+- [Version-4](#ifes-pong-v4)
+- [Version-5](#ifes-pong-v5)
 
 ## Installation
 Here are the steps needed to install and run the code properly
