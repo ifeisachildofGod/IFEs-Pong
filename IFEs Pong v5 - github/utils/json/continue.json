@@ -1,14 +1,14 @@
 {
-  "player 1 score": 0,
-  "player 2 score": 0,
-  "player 1 y position": 301,
-  "player 2 y position": 301,
+  "player 1 score": 1,
+  "player 2 score": 1,
+  "player 1 y position": 507,
+  "player 2 y position": 240,
   "ball pos": [
-    456,
-    157
+    541,
+    518
   ],
   "ball dir": [
-    -1,
-    -1
+    -1.2,
+    -0.7999999999999999
   ]
 }

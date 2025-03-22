@@ -1,0 +1,49 @@
+{
+  "Background Color": "black",
+  "Foreground Color": "white",
+  "Player one Binding0": [
+    "w",
+    119
+  ],
+  "Player one Binding1": [
+    "s",
+    115
+  ],
+  "Player two Binding0": [
+    "UP",
+    1073741906
+  ],
+  "Player two Binding1": [
+    "DOWN",
+    1073741905
+  ],
+  "Player one Control": 1,
+  "Player two Control": 2,
+  "AI Difficulty": 4,
+  "SCORE_SAVE_KEY": [
+    4,
+    4
+  ],
+  "P1_Y_POS_SAVE_KEY": 37,
+  "P2_Y_POS_SAVE_KEY": 234,
+  "BALL_POS_SAVE_KEY": [
+    1207,
+    300
+  ],
+  "BALL_DIR_SAVE_KEY": [
+    0,
+    0
+  ],
+  "MPO_BG_COLOR_KEY": "black",
+  "MPO_FG_COLOR_KEY": "white",
+  "MPO_DATA_KEY": 0,
+  "MPO_PC_KEY": 1,
+  "MPO_PB_KEY0": [
+    "s",
+    115
+  ],
+  "MPO_PB_KEY1": [
+    "s",
+    115
+  ]
+}

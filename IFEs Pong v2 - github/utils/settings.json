@@ -1,7 +1,7 @@
 {
-  "bg_color": "black",
+  "bg_color": "darkgreen",
   "fg_color": "white",
-  "link_color": "grey",
+  "link_color": "blue",
   "skin": "none",
   "ad_index": 4,
   "key1_up": "w",
