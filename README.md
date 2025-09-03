@@ -5,11 +5,12 @@ This is pong but a little better, this is an archive of all my previous iteratio
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Version-1](#ifes-pong-v1)
-- [Version-2](#ifes-pong-v2)
-- [Version-3](#ifes-pong-v3)
-- [Version-4](#ifes-pong-v4)
-- [Version-5](#ifes-pong-v5)
+- [V1](#ifes-pong-v1)
+- [V2](#ifes-pong-v2)
+- [V3](#ifes-pong-v3)
+- [V4](#ifes-pong-v4)
+- [V5](#ifes-pong-v5)
+- [V6](#ifes-pong-v6)
 
 ## Installation
 Here are the steps needed to install and run the code properly
@@ -244,3 +245,6 @@ If any error was made in this menu or the game in general, I am sorry. I'm curre
 - [IFEsYTVDownloader](https://ifeisachildofgod.itch.io/ifes-ytvideo-downloader)
 - [IFEsFreelance](https://www.upwork.com/freelancers/~0113b8c14366fba047?referrer_url_path=%2Fab%2Fprofiles%2Fsearch%2Fdetails%2F~0113b8c14366fba047%2Fprofile)
 
+
+## IFEs Pong v6
+#### Update coming
